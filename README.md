@@ -7,7 +7,7 @@ Image         | Excel.xlsm    |
 :------------------:|:------------------:|
 <img height = "70%" width="50%" src="https://github.com/indiedanish/ComputerVision_DataExtraction_to_ExcelSheet/blob/master/Images/img.jpeg" /> | <img width="50%" height = "70%" src="https://github.com/indiedanish/ComputerVision_DataExtraction_to_ExcelSheet/blob/master/Excel_SS.JPG" /> 
 
-## 🏃 To run follow the steps:
+## 🏃 To run, follow the steps:
 
 > Setup Google Cloud Platform, Add Cloud Vision AI (Library), Enable Billing
 ####
